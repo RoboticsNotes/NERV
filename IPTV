@@ -1,6 +1,102 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 
+#EXTINF:-1 logo="" group-title="周日英超" ,英超 热刺 VS 伯恩利 粤语
+https://hls.zb.ssports.com/ssports/yue3559926_xinying1080.m3u8?k=46fbf515c68d9f813da8e5adb36e5027&t=5f569b90&UID=1652534342free0450043083&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周日英超" ,英超 狼队vs诺域治 粤语
+https://hls.zb.ssports.com/ssports/yue3559929_xinying1080.m3u8?k=d265a8c3a25c7bf9d19a3da800ab287c&t=5f569b90&UID=1652534400free0202852336&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周日英超" ,英超 沃特福德 VS 莱斯特城 粤语
+https://hls.zb.ssports.com/ssports/yue3559927_xinying1080.m3u8?k=35749b5e3e60a02b0a7c9e02b4bf7b09&t=628123bc&UID=1652534564free0366676645&MATCHID=3559927&TYPE=1
+#EXTINF:-1 logo="" group-title="周日英超" ,英超 利兹 VS 布莱顿 粤语
+https://hls.zb.ssports.com/ssports/yue3559922_xinying1080.m3u8?k=c081b5177b6e0ebb6c64a3eaa147feba&t=628123bc&UID=1652534636free2588202053&MATCHID=3559922&TYPE=1
+#EXTINF:-1 logo="" group-title="周日英超" ,英超 阿斯顿维拉 VS 水晶宫 粤语
+https://hls.zb.ssports.com/ssports/yue3559920_xinying1080.m3u8?k=5fb452ba4eb2b870aa56d90db4d0556b&t=628123bc&UID=1652534742free7286381664&MATCHID=3559920&TYPE=1
+#EXTINF:-1 logo="" group-title="周日英超" ,英超 西汉姆 VS 曼城 何辉 粤语
+https://hls.zb.ssports.com/ssports/yue3559928_xinying1080.m3u8?k=4daca3765b07f6e5a50815efc146be3b&t=628123bc&UID=1652534798free5500070671&MATCHID=3559928&TYPE=1
+#EXTINF:-1 logo="" group-title="周日英超" ,英超 埃弗顿 VS 布伦特福德 粤语
+https://hls.zb.ssports.com/ssports/yue3559921_xinying1080.m3u8?k=08fa95997abb0e36b6738bab8e568b99&t=628146e4&UID=1652539730free2127027533&MATCHID=3559921&TYPE=1
+
+#EXTINF:-1 logo="" group-title="周日英超" ,英超 热刺 VS 伯恩利 英语
+https://hls.zb.ssports.com/ssports/en3559926_xinying1080.m3u8?k=46fbf515c68d9f813da8e5adb36e5027&t=5f569b90&UID=1652534342free0450043083&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周日英超" ,英超 狼队vs诺域治 英语
+https://hls.zb.ssports.com/ssports/en3559929_xinying1080.m3u8?k=d265a8c3a25c7bf9d19a3da800ab287c&t=5f569b90&UID=1652534400free0202852336&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周日英超" ,英超 沃特福德 VS 莱斯特城 英语
+https://hls.zb.ssports.com/ssports/en3559927_xinying1080.m3u8?k=35749b5e3e60a02b0a7c9e02b4bf7b09&t=628123bc&UID=1652534564free0366676645&MATCHID=3559927&TYPE=1
+#EXTINF:-1 logo="" group-title="周日英超" ,英超 利兹 VS 布莱顿 英语
+https://hls.zb.ssports.com/ssports/en3559922_xinying1080.m3u8?k=c081b5177b6e0ebb6c64a3eaa147feba&t=628123bc&UID=1652534636free2588202053&MATCHID=3559922&TYPE=1
+#EXTINF:-1 logo="" group-title="周日英超" ,英超 阿斯顿维拉 VS 水晶宫 英语
+https://hls.zb.ssports.com/ssports/en3559920_xinying1080.m3u8?k=5fb452ba4eb2b870aa56d90db4d0556b&t=628123bc&UID=1652534742free7286381664&MATCHID=3559920&TYPE=1
+#EXTINF:-1 logo="" group-title="周日英超" ,英超 西汉姆 VS 曼城 何辉 英语
+https://hls.zb.ssports.com/ssports/en3559928_xinying1080.m3u8?k=4daca3765b07f6e5a50815efc146be3b&t=628123bc&UID=1652534798free5500070671&MATCHID=3559928&TYPE=1
+#EXTINF:-1 logo="" group-title="周日英超" ,英超 埃弗顿 VS 布伦特福德 英语
+https://hls.zb.ssports.com/ssports/en3559921_xinying1080.m3u8?k=08fa95997abb0e36b6738bab8e568b99&t=628146e4&UID=1652539730free2127027533&MATCHID=3559921&TYPE=1
+
+#EXTINF:-1 logo="" group-title="周日英超" ,英超 热刺 VS 伯恩利 国语
+https://hls.zb.ssports.com/ssports/cn3559926_xinying1080.m3u8?k=46fbf515c68d9f813da8e5adb36e5027&t=5f569b90&UID=1652534342free0450043083&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周日英超" ,英超 狼队vs诺域治 国语
+https://hls.zb.ssports.com/ssports/cn3559929_xinying1080.m3u8?k=d265a8c3a25c7bf9d19a3da800ab287c&t=5f569b90&UID=1652534400free0202852336&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周日英超" ,英超 沃特福德 VS 莱斯特城 国语
+https://hls.zb.ssports.com/ssports/cn3559927_xinying1080.m3u8?k=35749b5e3e60a02b0a7c9e02b4bf7b09&t=628123bc&UID=1652534564free0366676645&MATCHID=3559927&TYPE=1
+#EXTINF:-1 logo="" group-title="周日英超" ,英超 利兹 VS 布莱顿 国语
+https://hls.zb.ssports.com/ssports/cn3559922_xinying1080.m3u8?k=c081b5177b6e0ebb6c64a3eaa147feba&t=628123bc&UID=1652534636free2588202053&MATCHID=3559922&TYPE=1
+#EXTINF:-1 logo="" group-title="周日英超" ,英超 阿斯顿维拉 VS 水晶宫 国语
+https://hls.zb.ssports.com/ssports/cn3559920_xinying1080.m3u8?k=5fb452ba4eb2b870aa56d90db4d0556b&t=628123bc&UID=1652534742free7286381664&MATCHID=3559920&TYPE=1
+#EXTINF:-1 logo="" group-title="周日英超" ,英超 西汉姆 VS 曼城 何辉 国语
+https://hls.zb.ssports.com/ssports/cn3559928_xinying1080.m3u8?k=4daca3765b07f6e5a50815efc146be3b&t=628123bc&UID=1652534798free5500070671&MATCHID=3559928&TYPE=1
+#EXTINF:-1 logo="" group-title="周日英超" ,英超 埃弗顿 VS 布伦特福德 国语
+https://hls.zb.ssports.com/ssports/cn3559921_xinying1080.m3u8?k=08fa95997abb0e36b6738bab8e568b99&t=628146e4&UID=1652539730free2127027533&MATCHID=3559921&TYPE=1
+
+#EXTINF:-1 logo="" group-title="周末西甲" ,西甲 马洛卡 VS 巴列卡诺 粤语
+https://hls.zb.ssports.com/ssports/yue3570915_xinying1080.m3u8?k=10c7de1c9ac07a215a652bf6c736dc73&t=5f569b90&UID=1652582844free8844863741&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末西甲" ,西甲 马洛卡 VS 巴列卡诺 国语
+https://hls.zb.ssports.com/ssports/ch3570915_xinying1080.m3u8?k=10c7de1c9ac07a215a652bf6c736dc73&t=5f569b90&UID=1652582844free8844863741&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末西甲" ,西甲 马洛卡 VS 巴列卡诺 英
+https://hls.zb.ssports.com/ssports/en3570915_xinying1080.m3u8?k=10c7de1c9ac07a215a652bf6c736dc73&t=5f569b90&UID=1652582844free8844863741&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末西甲" ,西甲 维戈塞尔塔 VS 埃尔切 国语
+https://hls.zb.ssports.com/ssports/ch3570911_xinying1080.m3u8?k=3e6db79ccd57a4673feee73f5fba077b&t=62816304&UID=1652582938free2557501285&MATCHID=3570911&TYPE=1
+#EXTINF:-1 logo="" group-title="周末西甲" ,西甲 维戈塞尔塔 VS 埃尔切 英
+https://hls.zb.ssports.com/ssports/en3570911_xinying1080.m3u8?k=3e6db79ccd57a4673feee73f5fba077b&t=62816304&UID=1652582938free2557501285&MATCHID=3570911&TYPE=1
+#EXTINF:-1 logo="" group-title="周末西甲" ,西甲 贝蒂斯 VS 格拉纳达 粤语
+https://hls.zb.ssports.com/ssports/yue3570909_xinying1080.m3u8?k=006fbeefc5ee406b250a59bdbafb628b&t=62816304&UID=1652583001free8240103088&MATCHID=3570909&TYPE=1
+#EXTINF:-1 logo="" group-title="周末西甲" ,西甲 贝蒂斯 VS 格拉纳达 国语
+https://hls.zb.ssports.com/ssports/ch3570909_xinying1080.m3u8?k=006fbeefc5ee406b250a59bdbafb628b&t=62816304&UID=1652583001free8240103088&MATCHID=3570909&TYPE=1
+#EXTINF:-1 logo="" group-title="周末西甲" ,西甲 贝蒂斯 VS 格拉纳达 英
+https://hls.zb.ssports.com/ssports/en3570909_xinying1080.m3u8?k=006fbeefc5ee406b250a59bdbafb628b&t=62816304&UID=1652583001free8240103088&MATCHID=3570909&TYPE=1
+#EXTINF:-1 logo="" group-title="周末西甲" ,西甲 毕尔巴鄂竞技 VS 奥萨苏纳 国语
+https://hls.zb.ssports.com/ssports/ch3570907_xinying1080.m3u8?k=e2db249ad38c595315455cb074da1019&t=62816304&UID=1652583121free6366010074&MATCHID=3570907&TYPE=1
+#EXTINF:-1 logo="" group-title="周末西甲" ,西甲 毕尔巴鄂竞技 VS 奥萨苏纳 英
+https://hls.zb.ssports.com/ssports/en3570907_xinying1080.m3u8?k=e2db249ad38c595315455cb074da1019&t=62816304&UID=1652583121free6366010074&MATCHID=3570907&TYPE=1
+#EXTINF:-1 logo="" group-title="周末西甲" ,西甲 比利亚雷亚尔 VS 皇家社会 粤语
+https://hls.zb.ssports.com/ssports/yue3570916_xinying1080.m3u8?k=749c16251714aea748ff1e0b311682be&t=62816304&UID=1652583201free1034818101&MATCHID=3570916&TYPE=1
+#EXTINF:-1 logo="" group-title="周末西甲" ,西甲 比利亚雷亚尔 VS 皇家社会 国语
+https://hls.zb.ssports.com/ssports/ch3570916_xinying1080.m3u8?k=749c16251714aea748ff1e0b311682be&t=62816304&UID=1652583201free1034818101&MATCHID=3570916&TYPE=1
+#EXTINF:-1 logo="" group-title="周末西甲" ,西甲 比利亚雷亚尔 VS 皇家社会 英
+https://hls.zb.ssports.com/ssports/en3570916_xinying1080.m3u8?k=749c16251714aea748ff1e0b311682be&t=62816304&UID=1652583201free1034818101&MATCHID=3570916&TYPE=1
+#EXTINF:-1 logo="" group-title="周末西甲" ,西甲 莱万特 VS 阿拉维斯 粤语
+https://hls.zb.ssports.com/ssports/yue3570914_xinying1080.m3u8?k=c910b496c544cabdefef212ed4d79cb6&t=5f569b90&UID=1652583261free2243540275&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末西甲" ,西甲 莱万特 VS 阿拉维斯 国语
+https://hls.zb.ssports.com/ssports/ch3570914_xinying1080.m3u8?k=c910b496c544cabdefef212ed4d79cb6&t=5f569b90&UID=1652583261free2243540275&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末西甲" ,西甲 莱万特 VS 阿拉维斯 英
+https://hls.zb.ssports.com/ssports/en3570914_xinying1080.m3u8?k=c910b496c544cabdefef212ed4d79cb6&t=5f569b90&UID=1652583261free2243540275&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末西甲" ,西甲 赫塔菲 VS 巴塞罗那 粤语 何辉
+https://hls.zb.ssports.com/ssports/yue3570913_xinying1080.m3u8?k=ae41e1a0870822b6c668d6db1ed5e78d&t=62816304&UID=1652583367free5816528375&MATCHID=3570913&TYPE=1
+#EXTINF:-1 logo="" group-title="周末西甲" ,西甲 赫塔菲 VS 巴塞罗那 国语
+https://hls.zb.ssports.com/ssports/ch3570913_xinying1080.m3u8?k=ae41e1a0870822b6c668d6db1ed5e78d&t=62816304&UID=1652583367free5816528375&MATCHID=3570913&TYPE=1
+#EXTINF:-1 logo="" group-title="周末西甲" ,西甲 赫塔菲 VS 巴塞罗那 英
+https://hls.zb.ssports.com/ssports/en3570913_xinying1080.m3u8?k=ae41e1a0870822b6c668d6db1ed5e78d&t=62816304&UID=1652583367free5816528375&MATCHID=3570913&TYPE=1
+#EXTINF:-1 logo="" group-title="周末西甲" ,西甲 加的斯 VS 皇家马德里 粤语
+https://hls.zb.ssports.com/ssports/yue3570910_xinying1080.m3u8?k=656940aa4c38d6dd9ae6d683f2d4a536&t=5f569b90&UID=1652583449free4265240755&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末西甲" ,西甲 加的斯 VS 皇家马德里 国语
+https://hls.zb.ssports.com/ssports/ch3570910_xinying1080.m3u8?k=656940aa4c38d6dd9ae6d683f2d4a536&t=5f569b90&UID=1652583449free4265240755&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末西甲" ,西甲 加的斯 VS 皇家马德里 英
+https://hls.zb.ssports.com/ssports/en3570910_xinying1080.m3u8?k=656940aa4c38d6dd9ae6d683f2d4a536&t=5f569b90&UID=1652583449free4265240755&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末西甲" ,西甲 马德里竞技 VS 塞维利亚 粤语
+https://hls.zb.ssports.com/ssports/yue3570908_xinying1080.m3u8?k=8552169ca5278ad0c95ef72612df02d0&t=5f569b90&UID=1652583529free7387405827&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末西甲" ,西甲 马德里竞技 VS 塞维利亚 国语
+https://hls.zb.ssports.com/ssports/ch3570908_xinying1080.m3u8?k=8552169ca5278ad0c95ef72612df02d0&t=5f569b90&UID=1652583529free7387405827&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末西甲" ,西甲 马德里竞技 VS 塞维利亚 英
+https://hls.zb.ssports.com/ssports/en3570908_xinying1080.m3u8?k=8552169ca5278ad0c95ef72612df02d0&t=5f569b90&UID=1652583529free7387405827&MATCHID=3372599&TYPE=1
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="高码央视卫视",CCTV1
 http://112.25.47.24/gitv_live/G_CCTV-1-HD-265-8M/G_CCTV-1-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
 #http://112.25.47.35/gitv_live/G_CCTV-1-HD-265-5M/G_CCTV-1-HD-265-5M.m3u8?p=GITV&area=JS_CMCC_CP
@@ -303,7 +399,7 @@ http://125.210.152.19:9090/live/hszx-qhtv-h264.m3u8
 http://125.210.152.19:9090/live/hzgq-ssws-h264.m3u8
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="高码央视卫视",中国教育4
 http://125.210.152.19:9090/live/hszx-CETV-4-h264.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="高码央视卫视",新疆卫视
+#EXTINF:-1 tvg-id="57" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="高码央视卫视",新疆卫视
 http://125.210.152.19:9090/live/hszx-xjtv-h264.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="高码央视卫视",云南卫视
 http://125.210.152.19:9090/live/hzgq-ynwsgq-h264.m3u8
@@ -2808,6 +2904,29 @@ http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live162700604855057.m
 
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/xinjiang.png" group-title="黑吉辽蒙疆藏",新疆卫视
 http://39.135.49.209:6610/PLTV/88888888/224/3221227248/1.m3u8?servicetype=1
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆卫视
+http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆维语综合
+http://livehyw5.chinamcache.com/hyw/zb02.m3u8?txSecret=0db853dddc29118c1c7083f56ac5781e&txTime=95A66658
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆哈语综合
+http://livehyw5.chinamcache.com/hyw/zb03.m3u8?txSecret=ec6716d9478a6e72bbf7e79969c4fd13&txTime=95A66658
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆综艺
+http://livehyw5.chinamcache.com/hyw/zb04.m3u8?txSecret=21e884c07f77b8c31849d9ac938ad0bf&txTime=95A66658
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆维语综艺
+http://livehyw5.chinamcache.com/hyw/zb05.m3u8?txSecret=2b0278beb86ca088d2532a4ac56d3351&txTime=95A66658
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆经济生活
+http://livehyw5.chinamcache.com/hyw/zb07.m3u8?txSecret=49511a59e866d45d73782afa6768da2d&txTime=95A66658
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆哈语综艺
+http://livehyw5.chinamcache.com/hyw/zb08.m3u8?txSecret=64144bee74a2860eca3c60e37fb449bb&txTime=95A66658
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆维语经济生活
+http://livehyw5.chinamcache.com/hyw/zb09.m3u8?txSecret=181d053f140036a2dab3debb05d1cb59&txTime=95A66658
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆体育
+http://livehyw5.chinamcache.com/hyw/zb10.m3u8?txSecret=d091dfc5816b7d292a3857c717d16a66&txTime=95A66658
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆信息服务
+http://livehyw5.chinamcache.com/hyw/zb11.m3u8?txSecret=4ef7a35eab0a7bbdd9b5d96be9d12d54&txTime=95A66658
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆少儿
+http://livehyw5.chinamcache.com/hyw/zb12.m3u8?txSecret=b2d9d5bdd746c8ae8ce02450b95e3315&txTime=95A66658
+
 #EXTINF:-1 tvg-logo="" group-title="黑吉辽蒙疆藏",乌鲁木齐影视频道
 http://202.107.188.139:5002/utv3_hdgq.m3u8?token=guoziyun
 #http://202.107.188.140:5002/utv3_hdgq.m3u8?token=guoziyun
@@ -4581,7 +4700,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb028c2e6a0c00075275
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb040d4795a6000762fe8f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgKGR0.png" group-title="NBA Playoffs",ESPN
-https://demf1kf3itpt4.cloudfront.net/hls/espn/playlist.m3u8
+http://d216kmtcjzprzl.cloudfront.net/stream/NDI5OQ==/1080p.m3u8
+#https://demf1kf3itpt4.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/03/19/qAojiT.png" group-title="NBA Playoffs",ESPN 2
 https://demf1kf3itpt4.cloudfront.net/hls/espn2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070feccd0b5.jpg" group-title="NBA Playoffs",TNT
